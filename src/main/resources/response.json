@@ -1,0 +1,292 @@
+{
+  "status": 200,
+  "offset": 0,
+  "limit": 10,
+  "count": 10,
+  "total": 49,
+  "url": "/v2/dictionaries/entries?headword=nut",
+  "results": [
+    {
+      "datasets": [
+        "ldec",
+        "dictionary"
+      ],
+      "headword": "nuts",
+      "homnum": 2,
+      "id": "cqAJRbTb6h",
+      "part_of_speech": "interj",
+      "senses": [
+        {
+          "translation": "去你的；混蛋〔表示生氣、拒絕〕"
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cqAJRbTb6h"
+    },
+    {
+      "datasets": [
+        "wordwise",
+        "dictionary"
+      ],
+      "headword": "nut",
+      "id": "cqARR0wZce",
+      "part_of_speech": "noun",
+      "senses": [
+        {
+          "cross_references": [
+            {
+              "headword": ""
+            }
+          ],
+          "definition": "a large seed that you can eat, that usually grows in a hard brown shell",
+          "examples": [
+            {
+              "text": "a cashew nut"
+            }
+          ]
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cqARR0wZce"
+    },
+    {
+      "datasets": [
+        "ldoce5",
+        "dictionary"
+      ],
+      "headword": "Nuts",
+      "id": "cqAFb2m6TZ",
+      "pronunciations": [
+        {
+          "audio": [
+            {
+              "lang": "British English",
+              "type": "pronunciation",
+              "url": "/v2/dictionaries/assets/ldoce/gb_pron/ld5_nuts.mp3"
+            },
+            {
+              "lang": "American English",
+              "type": "pronunciation",
+              "url": "/v2/dictionaries/assets/ldoce/us_pron/ld5_nuts.mp3"
+            }
+          ],
+          "ipa": "nʌts"
+        }
+      ],
+      "senses": [
+        {
+          "definition": [
+            "a lad magmagazine for young men published weekly in the UK. It has many pictures of women wearing not much clothing and articles about cars, football, and other things that interest young men."
+          ]
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cqAFb2m6TZ"
+    },
+    {
+      "datasets": [
+        "lasde",
+        "dictionary"
+      ],
+      "headword": "nuts",
+      "id": "cqAFw1j1X4",
+      "part_of_speech": "adjective",
+      "pronunciations": [
+        {
+          "ipa": "nʌts"
+        }
+      ],
+      "senses": [
+        {
+          "definition": [
+            "crazy, silly, or angry"
+          ],
+          "examples": [
+            {
+              "text": "I’ll go nuts if I have to wait any longer."
+            }
+          ],
+          "thesaurus_ref": [
+            {
+              "headword": ""
+            }
+          ]
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cqAFw1j1X4"
+    },
+    {
+      "datasets": [
+        "ldec",
+        "dictionary"
+      ],
+      "headword": "nut",
+      "homnum": 1,
+      "id": "cqAJRaZsHn",
+      "part_of_speech": "noun",
+      "senses": [
+        {
+          "translation": "堅果；堅果仁"
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cqAJRaZsHn"
+    },
+    {
+      "datasets": [
+        "laes",
+        "dictionary"
+      ],
+      "headword": "nuts",
+      "id": "csTMcq01GD",
+      "part_of_speech": "adjective",
+      "pronunciations": [
+        {
+          "ipa": "nʌts"
+        }
+      ],
+      "senses": [
+        {
+          "definition": [
+            "crazy or behaving very strangely"
+          ],
+          "lexical_box": [
+            {
+              "lexical_unit": "go nuts",
+              "senses": [
+                {
+                  "translations": [
+                    {
+                      "example": [
+                        {
+                          "text": "This job would make anyone go nuts.",
+                          "translation": {
+                            "text": [
+                              "Este trabajo volvería loco a cualquiera"
+                            ]
+                          }
+                        }
+                      ],
+                      "text": [
+                        "volverse loco -a"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "translations": [
+            {
+              "example": [
+                {
+                  "text": "You'd have to be nuts to do that.",
+                  "translation": {
+                    "text": [
+                      "Tienes que estar chalado para hacerlo."
+                    ]
+                  }
+                }
+              ],
+              "text": [
+                "loco -a"
+              ]
+            }
+          ]
+        }
+      ],
+      "url": "/v2/dictionaries/entries/csTMcq01GD"
+    },
+    {
+      "datasets": [
+        "ldec",
+        "dictionary"
+      ],
+      "headword": "nut",
+      "homnum": 2,
+      "id": "cqAJRabr3q",
+      "part_of_speech": "verb",
+      "senses": [
+        {
+          "translation": "用頭撞"
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cqAJRabr3q"
+    },
+    {
+      "datasets": [
+        "laad3",
+        "dictionary"
+      ],
+      "headword": "nuts",
+      "homnum": 1,
+      "id": "cs1svddmFe",
+      "part_of_speech": "adjective",
+      "senses": [
+        {
+          "definition": "crazy",
+          "examples": [
+            {
+              "text": "Are you nuts or something?"
+            }
+          ]
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cs1svddmFe"
+    },
+    {
+      "datasets": [
+        "laad3",
+        "dictionary"
+      ],
+      "headword": "nuts",
+      "homnum": 2,
+      "id": "cs1svdjzft",
+      "part_of_speech": "interjection",
+      "senses": [
+        {
+          "definition": "used when you are angrily refusing to listen to someone or do something",
+          "examples": [
+            {
+              "text": "“Nuts to that,” he said, and left."
+            }
+          ]
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cs1svdjzft"
+    },
+    {
+      "datasets": [
+        "brep",
+        "dictionary"
+      ],
+      "headword": "nut",
+      "id": "ct59xNfDgD",
+      "part_of_speech": "noun",
+      "pronunciations": [
+        {
+          "ipa": "nʌt",
+          "lang": "American English"
+        }
+      ],
+      "senses": [
+        {
+          "definition": [
+            "any nut, like almond, walnut, hazelnut, etc."
+          ],
+          "translations": [
+            {
+              "example": [
+                {
+                  "text": "mixed nuts",
+                  "translation": {
+                    "text": [
+                      "xxx"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "url": "/v2/dictionaries/entries/ct59xNfDgD"
+    }
+  ]
+}
