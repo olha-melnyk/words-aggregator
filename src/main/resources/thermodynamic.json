@@ -1,0 +1,198 @@
+{
+  "status": 200,
+  "offset": 0,
+  "limit": 10,
+  "count": 10,
+  "total": 13,
+  "url": "/v2/dictionaries/entries?headword=thermodynamic",
+  "results": [
+    {
+      "datasets": [
+        "ldoce5",
+        "dictionary"
+      ],
+      "headword": "thermodynamics",
+      "id": "cqAFzRabx3",
+      "part_of_speech": "noun",
+      "pronunciations": [
+        {
+          "audio": [
+            {
+              "lang": "British English",
+              "type": "pronunciation",
+              "url": "/v2/dictionaries/assets/ldoce/gb_pron/thermodynamics0205.mp3"
+            }
+          ],
+          "ipa": "ˌθɜːməʊdaɪˈnæmɪks"
+        },
+        {
+          "audio": [
+            {
+              "lang": "American English",
+              "type": "pronunciation",
+              "url": "/v2/dictionaries/assets/ldoce/us_pron/thermodynamics.mp3"
+            }
+          ],
+          "ipa": "ˌθɜːrmoʊ-",
+          "lang": "American English"
+        }
+      ],
+      "senses": [
+        {
+          "definition": [
+            "the science that deals with the relationship between heat and other forms of energy"
+          ]
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cqAFzRabx3"
+    },
+    {
+      "datasets": [
+        "laad3",
+        "dictionary"
+      ],
+      "headword": "thermodynamics",
+      "id": "cs1tNYASRn",
+      "part_of_speech": "noun",
+      "senses": [
+        {
+          "definition": "the science that deals with the relationship between heat and other forms of energy"
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cs1tNYASRn"
+    },
+    {
+      "datasets": [
+        "ldec",
+        "dictionary"
+      ],
+      "headword": "thermodynamics",
+      "id": "cqAJhzwhkW",
+      "part_of_speech": "noun",
+      "senses": [
+        {
+          "translation": "熱力學"
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cqAJhzwhkW"
+    },
+    {
+      "datasets": [
+        "laes",
+        "dictionary"
+      ],
+      "headword": "thermodynamics",
+      "id": "csTMd9EVAz",
+      "part_of_speech": "noun",
+      "pronunciations": [
+        {
+          "ipa": "ˌθɚmoʊdaɪˈnæmɪks"
+        }
+      ],
+      "senses": [
+        {
+          "translations": [
+            {
+              "text": [
+                "termodinámica"
+              ]
+            }
+          ]
+        }
+      ],
+      "url": "/v2/dictionaries/entries/csTMd9EVAz"
+    },
+    {
+      "datasets": [
+        "ldec",
+        "dictionary",
+        "sandbox"
+      ],
+      "headword": "chemical thermodynamics",
+      "id": "cqAHwtvGDH",
+      "part_of_speech": "noun",
+      "senses": [
+        {
+          "translation": "化學熱力學"
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cqAHwtvGDH"
+    },
+    {
+      "datasets": [
+        "ldec",
+        "dictionary"
+      ],
+      "headword": "thermodynamic temperature",
+      "id": "cqAJhzz6P2",
+      "part_of_speech": "noun",
+      "senses": [
+        {
+          "translation": "熱力學温度"
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cqAJhzz6P2"
+    },
+    {
+      "datasets": [
+        "laad3",
+        "dictionary"
+      ],
+      "headword": "second law of thermodynamics",
+      "id": "cs1tCBg9Tc",
+      "part_of_speech": "noun",
+      "senses": [
+        {
+          "definition": "a principle of physics that says that in a system with no outside influences, the amount of entropydisorder will tend to increase over time. This explains why heat moves to cooler areas until the temperature everywhere in a system is equal, and therefore there is less structure in the system.",
+          "lexical_unit": "the second law of thermodynamics"
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cs1tCBg9Tc"
+    },
+    {
+      "datasets": [
+        "ldec",
+        "dictionary"
+      ],
+      "headword": "zeroth law of thermodynamics",
+      "id": "cqAJqjjX9G",
+      "part_of_speech": "noun",
+      "senses": [
+        {
+          "translation": "熱力學第零定律"
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cqAJqjjX9G"
+    },
+    {
+      "datasets": [
+        "ldec",
+        "dictionary"
+      ],
+      "headword": "laws of thermodynamics",
+      "id": "cqAJHkR63t",
+      "part_of_speech": "noun",
+      "senses": [
+        {
+          "translation": "熱力學定律"
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cqAJHkR63t"
+    },
+    {
+      "datasets": [
+        "ldec",
+        "dictionary"
+      ],
+      "headword": "third law of thermodynamics",
+      "id": "cqAJj49hAM",
+      "part_of_speech": "noun",
+      "senses": [
+        {
+          "translation": "熱力學第三定律"
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cqAJj49hAM"
+    }
+  ]
+}

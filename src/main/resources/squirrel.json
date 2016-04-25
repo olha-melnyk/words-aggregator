@@ -1,0 +1,239 @@
+{
+  "status": 200,
+  "offset": 0,
+  "limit": 10,
+  "count": 10,
+  "total": 15,
+  "url": "/v2/dictionaries/entries?headword=squirrel",
+  "results": [
+    {
+      "datasets": [
+        "leasd",
+        "dictionary"
+      ],
+      "headword": "squirrel",
+      "id": "cqAG27jA7H",
+      "part_of_speech": "noun",
+      "senses": [
+        {
+          "definition": "boomdiertjie met ’n wollerige stert",
+          "translations": [
+            {
+              "text": "eekhoring"
+            }
+          ]
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cqAG27jA7H"
+    },
+    {
+      "datasets": [
+        "laad3",
+        "dictionary"
+      ],
+      "headword": "squirrel",
+      "homnum": 1,
+      "id": "cs1tH69QAr",
+      "part_of_speech": "noun",
+      "senses": [
+        {
+          "definition": "a small animal that climbs trees and eats nuts and that has a long furry tail"
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cs1tH69QAr"
+    },
+    {
+      "datasets": [
+        "ldec",
+        "dictionary"
+      ],
+      "headword": "squirrel",
+      "homnum": 1,
+      "id": "cqAJf5theN",
+      "part_of_speech": "noun",
+      "senses": [
+        {
+          "translation": "松鼠"
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cqAJf5theN"
+    },
+    {
+      "datasets": [
+        "laad3",
+        "dictionary"
+      ],
+      "headword": "squirrel",
+      "homnum": 2,
+      "id": "cs1tH6EpPY",
+      "part_of_speech": "phrasal verb",
+      "senses": [
+        {
+          "definition": "to keep something, especially money, in a safe place to use later"
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cs1tH6EpPY"
+    },
+    {
+      "datasets": [
+        "wordwise",
+        "dictionary"
+      ],
+      "headword": "squirrel",
+      "id": "cqARGKkWa2",
+      "part_of_speech": "noun",
+      "senses": [
+        {
+          "definition": "a small animal with a long furry tail that lives in trees and eats nuts"
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cqARGKkWa2"
+    },
+    {
+      "datasets": [
+        "ldec",
+        "dictionary"
+      ],
+      "headword": "squirrel",
+      "homnum": 2,
+      "id": "cqAJf5xDCA",
+      "part_of_speech": "verb",
+      "senses": [
+        {
+          "translation": "儲存，貯藏〔供以後使用〕"
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cqAJf5xDCA"
+    },
+    {
+      "datasets": [
+        "laes",
+        "dictionary"
+      ],
+      "headword": "squirrel",
+      "id": "csTMd6Kb7E",
+      "part_of_speech": "noun",
+      "pronunciations": [
+        {
+          "ipa": "ˈskwɚəl"
+        }
+      ],
+      "senses": [
+        {
+          "collocation_information": "red/gray squirrel",
+          "definition": [
+            "a small animal that climbs trees and eats nuts and that has a long furry tail"
+          ],
+          "translations": [
+            {
+              "example": [
+                {
+                  "text": "a gray squirrel",
+                  "translation": {
+                    "text": [
+                      "una ardilla gris"
+                    ]
+                  }
+                }
+              ],
+              "text": [
+                "ardilla"
+              ]
+            }
+          ]
+        }
+      ],
+      "url": "/v2/dictionaries/entries/csTMd6Kb7E"
+    },
+    {
+      "datasets": [
+        "brep",
+        "dictionary"
+      ],
+      "headword": "squirrel",
+      "id": "ct59xVhRWM",
+      "part_of_speech": "noun",
+      "pronunciations": [
+        {
+          "ipa": "ˈskwɜrəl",
+          "lang": "American English"
+        }
+      ],
+      "senses": [
+        {
+          "translations": [
+            {
+              "example": [
+                {
+                  "text": "a red/gray squirrel",
+                  "translation": {
+                    "text": [
+                      "um esquilo vermelho/cinza"
+                    ]
+                  }
+                }
+              ],
+              "text": [
+                "esquilo"
+              ]
+            }
+          ]
+        }
+      ],
+      "url": "/v2/dictionaries/entries/ct59xVhRWM"
+    },
+    {
+      "datasets": [
+        "ldoce5",
+        "dictionary"
+      ],
+      "headword": "squirrel",
+      "homnum": 1,
+      "id": "cqAFvy4Fb6",
+      "part_of_speech": "noun",
+      "pronunciations": [
+        {
+          "audio": [
+            {
+              "lang": "British English",
+              "type": "pronunciation",
+              "url": "/v2/dictionaries/assets/ldoce/gb_pron/squirrel_v0205.mp3"
+            }
+          ],
+          "ipa": "ˈskwɪrəl"
+        },
+        {
+          "audio": [
+            {
+              "lang": "American English",
+              "type": "pronunciation",
+              "url": "/v2/dictionaries/assets/ldoce/us_pron/squirrel.mp3"
+            }
+          ],
+          "ipa": "ˈskwɜːrəl",
+          "lang": "American English"
+        }
+      ],
+      "senses": [
+        {
+          "definition": [
+            "a small animal with a long furry tail that climbs trees and eats nuts"
+          ]
+        }
+      ],
+      "url": "/v2/dictionaries/entries/cqAFvy4Fb6"
+    },
+    {
+      "datasets": [
+        "ldoce5",
+        "dictionary"
+      ],
+      "headword": "squirrel",
+      "homnum": 2,
+      "id": "cqAFvy8BKj",
+      "part_of_speech": "verb",
+      "senses": null,
+      "url": "/v2/dictionaries/entries/cqAFvy8BKj"
+    }
+  ]
+}

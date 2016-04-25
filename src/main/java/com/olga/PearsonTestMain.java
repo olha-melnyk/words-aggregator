@@ -8,7 +8,7 @@ import java.util.List;
 public class PearsonTestMain {
     public static void main(String[] args) throws IOException {
 
-        File file = new File(PearsonTestMain.class.getResource("/response.json").getFile());
+        File file = new File(PearsonTestMain.class.getResource("/synchrophasotron.json").getFile());
 
         PearsonClient client = new PearsonClient();
         Response response = client.parseFile(file);
@@ -22,14 +22,17 @@ public class PearsonTestMain {
 
         List<ResultItem> resultItems = response.getResults();
         for (ResultItem resultItem : resultItems) {
-            System.out.println("\t" + resultItem.getHeadword());
+            System.out.println("HeadWord: " + resultItem.getHeadword());
+            System.out.println("Part of speech: " + resultItem.getPartOfSpeech());
 
             List<Pronunciation> pronunciations = resultItem.getPronunciations();
             if (pronunciations != null) {
                 for (Pronunciation pronunciation : pronunciations) {
-                    System.out.println("\t\t" + pronunciation.getIpa());
+                    System.out.println("Pronunciation: " + pronunciation.getIpa());
                 }
             }
+
+
 
             List<Sense> senses = resultItem.getSenses();
             if (senses != null) {

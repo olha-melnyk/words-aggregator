@@ -11,6 +11,7 @@ public class Main{
         String words = String.valueOf(reader.read());
         System.out.println( "Words:" + words);
 
+
         final String urlString = "http://api.pearson.com/v2/dictionaries/entries?headword=nut";
 
         URL url = new URL(urlString);
@@ -24,11 +25,5 @@ public class Main{
         while ((s = bufferedReader.readLine()) != null) {
             System.out.println("s = " + s);
         }
-
     }
-
-
-
-
-
 }
